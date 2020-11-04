@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+ 
+<body>
+
+<form action="STDB">
+   First Name : <input type="text" name="SFname"/><br><br><br>
+        Last Name : <input type="text" name="LFname"/><br><br><br>
+        PhNo : <input type="text" name="PhNo"/><br><br><br> 
+        Email : <input type="text" name="Email"/><br><br><br>
+          <input type="submit"/><br><br><br> 
+</form>
+
+</body>
+</html>

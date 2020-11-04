@@ -1,0 +1,7 @@
+
+Nov 04, 2020 13:06:37.142 NEW SESSION
+Nov 04, 2020 13:06:37.142 [7708:11036:1104/130637.139:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
+Nov 04, 2020 13:09:54.308 [7708:2068:1104/130954.308:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 04, 2020 13:09:57.61 [7708:2068:1104/130957.061:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 13:10:33.813 [1104/131033.782:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Nov 04, 2020 13:48:41.492 [7708:11036:1104/134841.491:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
