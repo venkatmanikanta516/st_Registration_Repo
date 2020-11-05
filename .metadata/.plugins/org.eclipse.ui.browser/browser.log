@@ -5,3 +5,34 @@ Nov 04, 2020 13:09:54.308 [7708:2068:1104/130954.308:ERROR:connection_factory_im
 Nov 04, 2020 13:09:57.61 [7708:2068:1104/130957.061:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
 Nov 04, 2020 13:10:33.813 [1104/131033.782:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 Nov 04, 2020 13:48:41.492 [7708:11036:1104/134841.491:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
+Nov 04, 2020 14:29:56.394 [7708:2068:1104/142956.386:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Nov 04, 2020 14:48:34.546 [7708:11036:1104/144834.544:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
+Nov 04, 2020 15:23:39.974 [7708:11036:1104/152339.974:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=en (0)
+Nov 04, 2020 16:17:32.310 [7708:2068:1104/161723.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 16:17:50.245 [7708:2068:1104/161750.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 16:18:47.398 [7708:2068:1104/161847.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 20:40:33.476 [7708:2068:1104/204033.475:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 20:40:54.600 [7708:3060:1104/204036.430:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 20:41:21.902 [7708:1348:1104/204121.643:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 20:43:13.765 [7708:5496:1104/204313.764:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 20:44:10.889 [7708:2068:1104/204410.888:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 20:47:53.785 [7708:3060:1104/204753.784:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 20:49:50.565 [7708:2068:1104/204950.563:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 20:54:53.794 [7708:10684:1104/205453.793:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 20:59:50.570 [7708:2068:1104/205950.569:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 21:04:53.818 [7708:1348:1104/210453.817:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 21:09:50.576 [7708:2068:1104/210950.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 21:14:53.832 [7708:10684:1104/211453.832:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 21:19:50.582 [7708:2068:1104/211950.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 21:24:53.848 [7708:10684:1104/212453.847:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 21:29:50.591 [7708:2068:1104/212950.589:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 21:34:53.862 [7708:1348:1104/213453.860:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 21:38:43.332 [7708:15052:1104/213843.332:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Nov 04, 2020 22:17:57.550 [7708:2068:1104/221757.472:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:18:22.932 [7708:2068:1104/221822.931:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:19:22.172 [7708:2068:1104/221922.170:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:21:05.342 [7708:2068:1104/222105.341:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:24:06.922 [7708:2068:1104/222406.921:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:29:34.915 [7708:2068:1104/222934.913:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 04, 2020 22:39:34.925 [7708:2068:1104/223934.923:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 05, 2020 24:48:08.246 [7708:2068:1105/004808.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+ 
+<html>
+
+<body >
+    <h1 align="center">
+        Login Form
+    </h1>
+
+    <form action="STLG" align="center" background="#e4f5f3">
+
+        First Name : <input type="text"/><br><br><br>
+        PhNo : <input type="text"/><br><br><br>
+         
+        <input type="submit"/>
+    </form>
+</body>
+</html>
+ 

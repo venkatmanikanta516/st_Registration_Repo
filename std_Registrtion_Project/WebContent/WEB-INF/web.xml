@@ -9,4 +9,17 @@
   <servlet-name>StudentRegistrtionForm</servlet-name>
   <url-pattern>/STDB</url-pattern>
   </servlet-mapping>
+  
+  
+
+ 
+  <servlet>
+  <servlet-name>LoginForm</servlet-name>
+  <servlet-class>std_Registrtion_Project.Login_BL</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>LoginForm</servlet-name>
+  <url-pattern>/STLG</url-pattern>
+  </servlet-mapping>
+  
 </web-app>

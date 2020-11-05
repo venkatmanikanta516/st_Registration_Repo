@@ -1,0 +1,66 @@
+package std_Registrtion_Project;
+
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class Login_BL extends HttpServlet {
+	
+	 PrintWriter out ; 	
+	 public void doGet(HttpServletRequest request, HttpServletResponse response)
+	 {
+		 try {
+			 
+			 String SFname= request.getParameter("SFname");
+			 int PhNo=Integer.parseInt(request.getParameter("PhNo"));
+			 
+			 out = response.getWriter();
+			 
+				 out.println("<h1>Welcome  Successfully Login</h1>");
+			 
+			 
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	 }
+
+	 
+	 Connection con;
+	 boolean ConnectionStringMethod()
+		{
+			
+			try {
+				Class.forName("com.mysql.cj.jdbc.Driver");  
+				  con=DriverManager.getConnection(  
+				"jdbc:mysql://localhost:3306/db_student","root","1234"); 
+				  
+				  return true;
+				
+			} catch (Exception e)
+			{
+				
+				 System.out.println("Exception at ConnectionString Method WIth Error Msg : "+e);
+				 return false;
+			}
+		
+		}
+		
+	 
+	 void LoginCheckMethod(String SFname,int PhNo)
+	 {
+		 try {
+			 
+			 ConnectionStringMethod();
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		 
+	 }
+
+}

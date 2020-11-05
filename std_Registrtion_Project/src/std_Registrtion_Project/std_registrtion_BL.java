@@ -34,7 +34,7 @@ public class std_registrtion_BL extends HttpServlet {
 				 int PhNo=Integer.parseInt(request.getParameter("PhNo"));
 				 String Email= request.getParameter("Email");
 					
-				int insertCount= InsertDataMethod(9,SFname,LFname,PhNo,Email);
+				int insertCount= InsertDataMethod(10,SFname,LFname,PhNo,Email);
 				 
 				
 				if(insertCount==1)
